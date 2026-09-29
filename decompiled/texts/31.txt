@@ -1,0 +1,41 @@
+[
+xmin 194
+ymin 93
+xmax 9128
+ymax 444
+][
+font 1
+height 320
+letterspacing 122
+color #0099cc
+x 160
+y 360
+]...[
+letterspacing 0
+color #0033ff
+spacing "é" 37
+spacing "u" 24
+spacing "f" 21
+spacing "r" 12
+spacing "m" 107
+spacing "e" 37
+spacingpair "R" "é" 63
+spacingpair "p" "u" 29
+spacingpair "i" "e" -52
+spacingpair "a" "n" 36
+spacingpair "n" "c" 26
+spacingpair "c" "h" 22
+spacingpair "h" "m" 43
+]Répuférmieufranchmem[
+color #0099cc
+spacing "." 122
+spacing "n" 26
+spacing " " 116
+spacingpair "o" "n" 26
+spacingpair "t" " " 9
+spacingpair "u" "n" 24
+spacingpair "f" "i" 21
+spacingpair "i" "l" -52
+spacingpair "l" "s" -54
+spacingpair "s" "." 14
+]...ont un fils...

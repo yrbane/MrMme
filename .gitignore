@@ -1,0 +1,11 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+.remember/
+CLAUDE.md
+# archive de décompilation : on ne versionne que le nécessaire
+decompiled/mrmme.fla
+decompiled/shapes/
+decompiled/sounds/
+decompiled/buttons/

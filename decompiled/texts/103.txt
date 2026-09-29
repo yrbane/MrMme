@@ -1,0 +1,36 @@
+[
+xmin 1422
+ymin 93
+xmax 7899
+ymax 444
+][
+font 1
+height 320
+letterspacing 122
+color #0099cc
+x 1380
+y 360
+]...[
+letterspacing 0
+color #0033ff
+spacing "é" 37
+spacing "u" 24
+spacingpair "F" "é" 52
+spacingpair "s" "k" 14
+spacingpair "k" "e" 31
+spacingpair "e" "u" 37
+spacingpair "g" "é" 28
+spacingpair "p" "u" 29
+]Féskeugépu[
+color #0099cc
+spacing "." 122
+spacing "n" 26
+spacing " " 116
+spacingpair "o" "n" 26
+spacingpair "t" " " 9
+spacingpair "u" "n" 24
+spacingpair "f" "i" 21
+spacingpair "i" "l" -52
+spacingpair "l" "s" -54
+spacingpair "s" "." 14
+]...ont un fils...

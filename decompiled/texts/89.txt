@@ -1,0 +1,40 @@
+[
+xmin 592
+ymin 97
+xmax 8729
+ymax 444
+][
+font 1
+height 320
+letterspacing 122
+color #0099cc
+x 540
+y 360
+]...[
+letterspacing 0
+color #0033ff
+spacing "k" 31
+spacing "o" 26
+spacing "n" 26
+spacing "t" 9
+spacing "e" 37
+spacingpair "A" "k" 92
+spacingpair "i" "m" -52
+spacingpair "m" "p" 107
+spacingpair "p" "o" 29
+spacingpair "r" "t" 12
+spacingpair "w" "a" 77
+spacingpair "a" "" 36
+]Akontenimportekwa[
+color #0099cc
+spacing "." 122
+spacing "n" 26
+spacing " " 116
+spacingpair "o" "n" 26
+spacingpair "t" " " 9
+spacingpair "u" "n" 24
+spacingpair "f" "i" 21
+spacingpair "i" "l" -52
+spacingpair "l" "s" -54
+spacingpair "s" "." 14
+]...ont un fils...

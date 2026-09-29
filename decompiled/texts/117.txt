@@ -1,0 +1,42 @@
+[
+xmin 163
+ymin 93
+xmax 9159
+ymax 444
+][
+font 1
+height 320
+letterspacing 122
+color #0099cc
+x 120
+y 360
+]...[
+letterspacing 0
+color #0033ff
+spacing "r" 12
+spacing "é" 37
+spacing "i" -52
+spacing "e" 37
+spacing "n" 26
+spacing "a" 36
+spacing "l" -54
+spacing "k" 31
+spacingpair "P" "r" 28
+spacingpair "b" "i" 48
+spacingpair "m" "a" 107
+spacingpair "o" "u" 26
+spacingpair "u" "i" 24
+spacingpair "p" "a" 29
+]Prébienmanouillekékpar[
+color #0099cc
+spacing "." 122
+spacing "n" 26
+spacing " " 116
+spacingpair "o" "n" 26
+spacingpair "t" " " 9
+spacingpair "u" "n" 24
+spacingpair "f" "i" 21
+spacingpair "i" "l" -52
+spacingpair "l" "s" -54
+spacingpair "s" "." 14
+]...ont un fils...

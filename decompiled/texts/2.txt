@@ -1,0 +1,45 @@
+[
+xmin 238
+ymin 93
+xmax 12147
+ymax 378
+][
+font 1
+height 320
+letterspacing 142
+color #0099cc
+x 200
+y 360
+]...[
+letterspacing 0
+color #0033ff
+spacing "u" 44
+spacing "r" 32
+spacing "é" 57
+spacing "o" 46
+spacing "l" -34
+spacing "a" 56
+spacing "e" 57
+spacing "s" 34
+spacingpair "T" "u" 101
+spacingpair "d" "é" 66
+spacingpair "m" "a" 127
+spacingpair "t" "r" 29
+spacingpair "b" "e" 68
+spacingpair "i" "n" -32
+spacingpair "n" "s" 46
+spacingpair "f" "a" 41
+spacingpair "w" "é" 97
+]Turdéolmatrabeulsinsofareuwé[
+color #0099cc
+spacing "." 142
+spacing "n" 46
+spacing " " 136
+spacing "e" 57
+spacing "l" -34
+spacingpair "o" "n" 46
+spacingpair "t" " " 29
+spacingpair "u" "n" 44
+spacingpair "f" "i" 41
+spacingpair "i" "l" -32
+]...ont une fille...

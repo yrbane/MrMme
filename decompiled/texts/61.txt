@@ -1,0 +1,29 @@
+[
+xmin 20
+ymin 54
+xmax 1663
+ymax 494
+][
+font 1
+height 180
+color #ffff00
+x 340
+y 200
+spacingpair "V" "e" 47
+spacingpair "e" "r" 27
+spacingpair "r" "s" 12
+spacingpair "s" "i" 14
+spacingpair "i" "o" -24
+spacingpair "o" "n" 21
+spacingpair "n" "" 20
+]Version[
+x 20
+y 480
+spacing "a" 26
+spacing "n" 20
+spacing "e" 27
+spacingpair "C" "a" 37
+spacingpair "d" "i" 32
+spacingpair "i" "e" -24
+spacingpair "!" "" 19
+]Cannadienne!

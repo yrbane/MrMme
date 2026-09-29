@@ -1,0 +1,38 @@
+[
+xmin 1121
+ymin 93
+xmax 8201
+ymax 378
+][
+font 1
+height 320
+letterspacing 122
+color #0099cc
+x 1080
+y 360
+]...[
+letterspacing 0
+color #0033ff
+spacing "i" -52
+spacing "é" 37
+spacing "s" 14
+spacingpair "G" "i" 76
+spacingpair "v" "é" 14
+spacingpair "c" "é" 22
+spacingpair "k" "o" 31
+spacingpair "o" "m" 26
+spacingpair "m" "s" 107
+spacingpair "a" "" 36
+]Givésicékomsa[
+color #0099cc
+spacing "." 122
+spacing "n" 26
+spacing " " 116
+spacingpair "o" "n" 26
+spacingpair "t" " " 9
+spacingpair "u" "n" 24
+spacingpair "f" "i" 21
+spacingpair "i" "l" -52
+spacingpair "l" "s" -54
+spacingpair "s" "." 14
+]...ont un fils...

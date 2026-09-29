@@ -1,0 +1,38 @@
+[
+xmin 228
+ymin 97
+xmax 7121
+ymax 378
+][
+font 1
+height 320
+letterspacing 122
+color #0099cc
+x 180
+y 360
+]...[
+letterspacing 0
+color #0033ff
+spacing "o" 26
+spacingpair "D" "e" 89
+spacingpair "e" " " 37
+spacingpair " " "c" 116
+spacingpair "c" "o" 22
+spacingpair "m" "i" 107
+spacingpair "i" "n" -52
+spacingpair "n" "t" 26
+spacingpair "t" "o" 9
+spacingpair "r" "o" 12
+]De comintoro[
+color #0099cc
+spacing "." 122
+spacing "n" 26
+spacing " " 116
+spacingpair "o" "n" 26
+spacingpair "t" " " 9
+spacingpair "u" "n" 24
+spacingpair "f" "i" 21
+spacingpair "i" "l" -52
+spacingpair "l" "s" -54
+spacingpair "s" "." 14
+]...ont un fils...

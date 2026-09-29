@@ -1,0 +1,37 @@
+[
+xmin 1372
+ymin 97
+xmax 7949
+ymax 444
+][
+font 1
+height 320
+letterspacing 122
+color #0099cc
+x 1320
+y 360
+]...[
+letterspacing 0
+color #0033ff
+spacing "t" 9
+spacing "u" 24
+spacingpair "S" "i" 80
+spacingpair "i" "t" -52
+spacingpair "r" "o" 12
+spacingpair "o" "u" 26
+spacingpair "v" "p" 14
+spacingpair "p" "a" 29
+spacingpair "a" "" 36
+]Situtrouvpa[
+color #0099cc
+spacing "." 122
+spacing "n" 26
+spacing " " 116
+spacingpair "o" "n" 26
+spacingpair "t" " " 9
+spacingpair "u" "n" 24
+spacingpair "f" "i" 21
+spacingpair "i" "l" -52
+spacingpair "l" "s" -54
+spacingpair "s" "." 14
+]...ont un fils...

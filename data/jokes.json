@@ -1,0 +1,152 @@
+[
+  {
+    "id": "turdeolmatrabeulsinsofareuwe",
+    "name": "Turdéolmatrabeulsinsofareuwé",
+    "child": "fille",
+    "pill": "assets/pills/turdeolmatrabeulsinsofareuwe.png",
+    "sound": "assets/sounds/turdeolmatrabeulsinsofareuwe.mp3",
+    "variants": []
+  },
+  {
+    "id": "de-comintoro",
+    "name": "De comintoro",
+    "child": "fils",
+    "pill": "assets/pills/de-comintoro.png",
+    "sound": "assets/sounds/de-comintoro.mp3",
+    "variants": []
+  },
+  {
+    "id": "sfoudmagueul",
+    "name": "Sfoudmagueul",
+    "child": "fille",
+    "pill": "assets/pills/sfoudmagueul.png",
+    "sound": "assets/sounds/sfoudmagueul.mp3",
+    "variants": []
+  },
+  {
+    "id": "comilrespir",
+    "name": "Comilrespir",
+    "child": "fils",
+    "pill": "assets/pills/comilrespir.png",
+    "sound": "assets/sounds/comilrespir.mp3",
+    "variants": []
+  },
+  {
+    "id": "repufermieufranchmem",
+    "name": "Répuférmieufranchmem",
+    "child": "fils",
+    "pill": "assets/pills/repufermieufranchmem.png",
+    "sound": "assets/sounds/repufermieufranchmem.mp3",
+    "variants": []
+  },
+  {
+    "id": "tazief",
+    "name": "Tazief",
+    "child": "fils",
+    "pill": "assets/pills/tazief.png",
+    "sound": "assets/sounds/tazief.mp3",
+    "variants": []
+  },
+  {
+    "id": "inpetalevazi",
+    "name": "Inpetalévazi",
+    "child": "fils",
+    "pill": "assets/pills/inpetalevazi.png",
+    "sound": "assets/sounds/inpetalevazi.mp3",
+    "variants": []
+  },
+  {
+    "id": "situtrouvpa",
+    "name": "Situtrouvpa",
+    "child": "fils",
+    "pill": "assets/pills/situtrouvpa.png",
+    "sound": "assets/sounds/situtrouvpa.mp3",
+    "variants": [
+      {
+        "id": "situtrouvpa-version-cannadienne",
+        "label": "Version Cannadienne!",
+        "sound": "assets/sounds/situtrouvpa-version-cannadienne.mp3"
+      }
+    ]
+  },
+  {
+    "id": "a-l-aide",
+    "name": "A l'aide",
+    "child": "fils",
+    "pill": "assets/pills/a-l-aide.png",
+    "sound": "assets/sounds/a-l-aide.mp3",
+    "variants": []
+  },
+  {
+    "id": "yeinabranlewala",
+    "name": "Yeinabranléwala",
+    "child": "fils",
+    "pill": "assets/pills/yeinabranlewala.png",
+    "sound": "assets/sounds/yeinabranlewala.mp3",
+    "variants": []
+  },
+  {
+    "id": "givesicekomsa",
+    "name": "Givésicékomsa",
+    "child": "fils",
+    "pill": "assets/pills/givesicekomsa.png",
+    "sound": "assets/sounds/givesicekomsa.mp3",
+    "variants": []
+  },
+  {
+    "id": "akontenimportekwa",
+    "name": "Akontenimportekwa",
+    "child": "fils",
+    "pill": "assets/pills/akontenimportekwa.png",
+    "sound": "assets/sounds/akontenimportekwa.mp3",
+    "variants": []
+  },
+  {
+    "id": "twadeuskitreugarde",
+    "name": "Twadeuskitreugarde",
+    "child": "fils",
+    "pill": "assets/pills/twadeuskitreugarde.png",
+    "sound": "assets/sounds/twadeuskitreugarde.mp3",
+    "variants": []
+  },
+  {
+    "id": "feskeugepu",
+    "name": "Féskeugépu",
+    "child": "fils",
+    "pill": "assets/pills/feskeugepu.png",
+    "sound": "assets/sounds/feskeugepu.mp3",
+    "variants": []
+  },
+  {
+    "id": "cehinbometiekanmem",
+    "name": "Céhinbométiékanmem",
+    "child": "fille",
+    "pill": "assets/pills/cehinbometiekanmem.png",
+    "sound": "assets/sounds/cehinbometiekanmem.mp3",
+    "variants": []
+  },
+  {
+    "id": "prebienmanouillekekpar",
+    "name": "Prébienmanouillekékpar",
+    "child": "fils",
+    "pill": "assets/pills/prebienmanouillekekpar.png",
+    "sound": "assets/sounds/prebienmanouillekekpar.mp3",
+    "variants": []
+  },
+  {
+    "id": "keurienhici",
+    "name": "Keurienhici",
+    "child": "fils",
+    "pill": "assets/pills/keurienhici.png",
+    "sound": "assets/sounds/keurienhici.mp3",
+    "variants": []
+  },
+  {
+    "id": "nonononononononono",
+    "name": "Nonononononononono",
+    "child": "fils",
+    "pill": "assets/pills/nonononononononono.png",
+    "sound": "assets/sounds/nonononononononono.mp3",
+    "variants": []
+  }
+]

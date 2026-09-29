@@ -1,0 +1,36 @@
+[
+xmin 1731
+ymin 97
+xmax 7590
+ymax 378
+][
+font 1
+height 320
+letterspacing 122
+color #0099cc
+x 1680
+y 360
+]...[
+letterspacing 0
+color #0033ff
+spacingpair "A" " " 92
+spacingpair " " "l" 116
+spacingpair "l" "'" -54
+spacingpair "'" "a" 108
+spacingpair "a" "i" 36
+spacingpair "i" "d" -52
+spacingpair "d" "e" 46
+spacingpair "e" "" 37
+]A l'aide[
+color #0099cc
+spacing "." 122
+spacing "n" 26
+spacing " " 116
+spacingpair "o" "n" 26
+spacingpair "t" " " 9
+spacingpair "u" "n" 24
+spacingpair "f" "i" 21
+spacingpair "i" "l" -52
+spacingpair "l" "s" -54
+spacingpair "s" "." 14
+]...ont un fils...

@@ -1,0 +1,40 @@
+[
+xmin 233
+ymin 93
+xmax 9089
+ymax 378
+][
+font 1
+height 320
+letterspacing 122
+color #0099cc
+x 200
+y 360
+]...[
+letterspacing 0
+color #0033ff
+spacing "é" 37
+spacing "i" -52
+spacing "n" 26
+spacing "m" 107
+spacingpair "C" "é" 56
+spacingpair "h" "i" 43
+spacingpair "b" "o" 48
+spacingpair "o" "m" 26
+spacingpair "t" "i" 9
+spacingpair "k" "a" 31
+spacingpair "a" "n" 36
+spacingpair "e" "m" 37
+]Céhinbométiékanmem[
+color #0099cc
+spacing "." 122
+spacing "n" 26
+spacing " " 116
+spacing "e" 37
+spacing "l" -54
+spacingpair "o" "n" 26
+spacingpair "t" " " 9
+spacingpair "u" "n" 24
+spacingpair "f" "i" 21
+spacingpair "i" "l" -52
+]...ont une fille...

@@ -1,0 +1,157 @@
+/* Fidèle au Flash d'origine : fond noir, Comic Sans, lettres espacées, cachets à droite */
+:root {
+  --bg: #000;
+  --name: #0033ff;
+  --text: #0099cc;
+  --variant: #ffff00;
+  --stage-width: 900px;
+  --pill-size: 70px;
+  --font: "Comic Sans MS", "Comic Neue", "Chalkboard SE", cursive;
+}
+
+* { box-sizing: border-box; }
+
+html { background: var(--bg); }
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  -webkit-font-smoothing: antialiased;
+}
+
+.stage {
+  max-width: var(--stage-width);
+  margin: 0 auto;
+  padding: 48px 16px 32px;
+}
+
+.jokes {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.joke {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  min-height: 74px;
+}
+
+.joke__text {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0.4em;
+  line-height: 1.4;
+  overflow-wrap: anywhere;
+  transform-origin: left center;
+}
+
+.joke__name { color: var(--name); }
+
+.joke__actions {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  flex-shrink: 0;
+}
+
+.joke__variant {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.joke__variant-label {
+  color: var(--variant);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-align: center;
+  max-width: 6em;
+  line-height: 1.3;
+}
+
+.pill {
+  width: var(--pill-size);
+  height: var(--pill-size);
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  cursor: pointer;
+  transition: transform 150ms ease, filter 150ms ease;
+}
+
+.pill img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border-radius: 50%;
+}
+
+.pill:hover,
+.pill:focus-visible { transform: scale(1.12); }
+
+.pill:focus-visible {
+  outline: 2px solid var(--text);
+  outline-offset: 4px;
+}
+
+.pill.is-playing {
+  transform: scale(1.12);
+  filter: drop-shadow(0 0 10px var(--text)) drop-shadow(0 0 22px var(--name));
+  animation: pulse 1.2s ease-in-out infinite;
+}
+
+/* Le halo pulse via le filtre : la boîte du bouton reste stable (accessibilité, tests) */
+@keyframes pulse {
+  0%, 100% { filter: drop-shadow(0 0 6px var(--text)) drop-shadow(0 0 14px var(--name)); }
+  50% { filter: drop-shadow(0 0 14px var(--text)) drop-shadow(0 0 30px var(--name)); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .pill, .pill.is-playing { animation: none; transition: none; }
+  .pill.is-playing { filter: drop-shadow(0 0 10px var(--text)) drop-shadow(0 0 22px var(--name)); }
+}
+
+.footer {
+  max-width: var(--stage-width);
+  margin: 0 auto;
+  padding: 16px;
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  text-align: center;
+  color: #336;
+}
+
+.footer a { color: var(--text); }
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+@media (max-width: 640px) {
+  .stage { padding-top: 24px; }
+  .joke {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 12px 0;
+    border-bottom: 1px solid #112;
+  }
+  .joke__text { font-size: 14px; letter-spacing: 0.25em; }
+  .joke__actions { align-self: flex-end; }
+  .pill { width: 56px; height: 56px; }
+}

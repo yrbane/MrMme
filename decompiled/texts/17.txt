@@ -1,0 +1,38 @@
+[
+xmin 972
+ymin 97
+xmax 8349
+ymax 441
+][
+font 1
+height 320
+letterspacing 122
+color #0099cc
+x 920
+y 360
+]...[
+letterspacing 0
+color #0033ff
+spacing "u" 24
+spacingpair "S" "f" 80
+spacingpair "f" "o" 21
+spacingpair "o" "u" 26
+spacingpair "d" "m" 46
+spacingpair "m" "a" 107
+spacingpair "a" "g" 36
+spacingpair "g" "u" 28
+spacingpair "e" "u" 37
+spacingpair "l" "" -54
+]Sfoudmagueul[
+color #0099cc
+spacing "." 122
+spacing "n" 26
+spacing " " 116
+spacing "e" 37
+spacing "l" -54
+spacingpair "o" "n" 26
+spacingpair "t" " " 9
+spacingpair "u" "n" 24
+spacingpair "f" "i" 21
+spacingpair "i" "l" -52
+]...ont une fille...

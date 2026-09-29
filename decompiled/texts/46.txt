@@ -1,0 +1,39 @@
+[
+xmin 1286
+ymin 93
+xmax 8035
+ymax 444
+][
+font 1
+height 320
+letterspacing 122
+color #0099cc
+x 1240
+y 360
+]...[
+letterspacing 0
+color #0033ff
+spacing "a" 36
+spacingpair "I" "n" 33
+spacingpair "n" "p" 26
+spacingpair "p" "e" 29
+spacingpair "e" "t" 37
+spacingpair "t" "a" 9
+spacingpair "l" "é" -54
+spacingpair "é" "v" 37
+spacingpair "v" "a" 14
+spacingpair "z" "i" 30
+spacingpair "i" "" -52
+]Inpetalévazi[
+color #0099cc
+spacing "." 122
+spacing "n" 26
+spacing " " 116
+spacingpair "o" "n" 26
+spacingpair "t" " " 9
+spacingpair "u" "n" 24
+spacingpair "f" "i" 21
+spacingpair "i" "l" -52
+spacingpair "l" "s" -54
+spacingpair "s" "." 14
+]...ont un fils...
