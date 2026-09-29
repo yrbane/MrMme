@@ -9,4 +9,4 @@
 - Accessibilité : boutons étiquetés, `aria-pressed`, navigation clavier, respect de `prefers-reduced-motion`.
 - Mise en page responsive : passage en colonne sous 640 px, aucun scroll horizontal.
 - Tests : 16 tests unitaires Vitest (player, rendu, cohérence des données, version affichée) et 8 tests E2E Playwright (desktop + mobile).
-- CI GitHub Actions : tests puis déploiement automatique sur GitHub Pages.
+- Comic Neue auto-hébergée (compatible avec la CSP stricte du serveur) et déploiement par rsync sur mrmme.nethttp.net.

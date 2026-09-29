@@ -1,4 +1,21 @@
 /* Fidèle au Flash d'origine : fond noir, Comic Sans, lettres espacées, cachets à droite */
+
+/* Comic Neue (OFL) auto-hébergée : repli quand Comic Sans MS n'est pas installée */
+@font-face {
+  font-family: "Comic Neue";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("assets/fonts/comic-neue-400.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Comic Neue";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("assets/fonts/comic-neue-700.woff2") format("woff2");
+}
 :root {
   --bg: #000;
   --name: #0033ff;

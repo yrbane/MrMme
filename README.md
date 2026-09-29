@@ -2,7 +2,7 @@
 
 > Portage JS d'un vieux Flash de 2004 : 18 blagues « Monsieur et Madame », chaque cachet joue la réponse à voix haute.
 
-**Démo : https://yrbane.github.io/MrMme/**
+**Démo : https://mrmme.nethttp.net/**
 
 ![Capture de la page](shots/mrmme-desktop.png)
 
@@ -52,7 +52,16 @@ assets/pills/           photos des cachets (dimensions d'origine)
 assets/sounds/          19 MP3 tels quels
 tests/unit  tests/e2e   Vitest + Playwright
 scripts/serve.js        serveur statique avec Range (dev + E2E)
-scripts/build.js        copie le site dans dist/ pour Pages et la release
+scripts/build.js        copie le site dans dist/ (ce qui est déployé)
+```
+
+## Déploiement
+
+Le site vit sur `mrmme.nethttp.net` (vhost wildcard Apache, CSP stricte : aucun script inline, polices et médias servis depuis le même domaine).
+
+```bash
+npm run build
+rsync -av --delete --rsync-path="sudo rsync" dist/ nethttp:/var/www/nethttp.net/mrmme/public/
 ```
 
 ## Licence
